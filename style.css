@@ -26,3 +26,9 @@ body {
     margin-right: 10px;
     margin-bottom: 10px;
   }
+  .project img, #aboutme img {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  }
